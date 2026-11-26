@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Окончил курсы по аналитике данных в 2026 году<br>📚 Навыки: SQL, Python, Excel и Power BI<br>🎯 Цель: Набраться практического опыта и приносить пользу в реальных проектах<br>🎲 О себе: Вне работы увлекаюсь боксом, симфонической музыкой</p>
 
 ###
 
